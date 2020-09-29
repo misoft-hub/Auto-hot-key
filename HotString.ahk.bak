@@ -1,0 +1,2 @@
+::apple::
+MsgBox, »ç°ú!

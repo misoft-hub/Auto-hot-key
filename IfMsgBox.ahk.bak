@@ -1,0 +1,5 @@
+﻿MsgBox, 4, 경고, 해킹하길 원하는가?
+IfMsgBox, Yes
+{
+    
+}
